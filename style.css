@@ -123,4 +123,5 @@ button{
 }
 .note{
     background-color: var(--third);
+    padding:15px;
 }
